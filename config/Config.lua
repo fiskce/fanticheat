@@ -38,8 +38,8 @@ ConfigACC.AntiSpectate = true -- Detecting people that are trying to spectate pe
 ConfigACC.AntiESX = false -- Only enable this on vrp servers!
 
 --// Webhook //-- SKIFT DIN WEBHOOK HER TIL DIN EGEN SERVER
-ConfigACC.Discord = "https://discord.gg/aCyBXFbtb4" -- your discord invite link
-ConfigACC.LogWebhook = "https://discord.com/api/webhooks/814062641118314506/8K471Je0ZaHHUhQrcpVoOC7xxhHrRUYjJvV5o774Jj5zHPMl5JpF_UtvqqaHuQPCUStE" -- your webhook here.
+ConfigACC.Discord = "" -- your discord invite link
+ConfigACC.LogWebhook = "" -- your webhook here.
 
 
 --// Custom //--
