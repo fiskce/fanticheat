@@ -6,7 +6,6 @@
 -- ╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝ ╚═════╝╚══════╝
 -- Created By Fiskce [REDACTED]
 
--- } license = [REDACTED]
 -- } support = [REDACTED]
 
 
